@@ -16,5 +16,5 @@ The following repositories contain project directories associated with:
 [RepSweeps](https://github.com/GabrieleNocchi/RepSweeps) - Signatures of convergent global selection in plant species.
 
 
-# Repo Details
+# Associated Publications
 Nocchi et al. in prep
