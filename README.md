@@ -14,6 +14,7 @@ If you use or are inspired by code in these repositories please cite the appropr
 The following repositories contain project directories associated with:
 
 [RepSweeps](https://github.com/GabrieleNocchi/RepSweeps) - Signatures of convergent global selection in plant species
+
 [Pop Structure](https://github.com/GabrieleNocchi/population_structure_analysis) - Scripts for a quick and dirty pop structure assessment
 [SNP calling](https://github.com/GabrieleNocchi/snp_calling_bcftools_slurm) - SNP calling pipeline
 [SNP calling nextflow](https://github.com/GabrieleNocchi/nextflow_snp_calling_linux) - Nextflow and Apptainer based SNP calling pipeline
