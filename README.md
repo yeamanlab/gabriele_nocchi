@@ -17,11 +17,11 @@ The following repositories contain project directories associated with:
 
 [Pop structure](https://github.com/GabrieleNocchi/population_structure_analysis) - Scripts for a quick and dirty pop structure assessment
 
-[SNPs calling](https://github.com/GabrieleNocchi/snp_calling_bcftools_slurm) - SNP calling pipeline
+[SNPs calling](https://github.com/GabrieleNocchi/snp_calling_bcftools_slurm) - SNPs calling pipeline
 
-[SNPs calling nextflow](https://github.com/GabrieleNocchi/nextflow_snp_calling_linux) - Nextflow and Apptainer based SNP calling pipeline
+[SNPs calling nextflow](https://github.com/GabrieleNocchi/nextflow_snp_calling_linux) - Nextflow and Apptainer based SNPs calling pipeline
 
-[SNPs calling nextflow compute canada](https://github.com/GabrieleNocchi/nextflow_snp_calling_computecanada_narval) - Nextflow and Apptainer based SNP calling pipeline optimized for Compute Canada HPCs
+[SNPs calling nextflow compute canada](https://github.com/GabrieleNocchi/nextflow_snp_calling_computecanada_narval) - Nextflow and Apptainer based SNPs calling pipeline optimized for Compute Canada HPCs
 
 
 
